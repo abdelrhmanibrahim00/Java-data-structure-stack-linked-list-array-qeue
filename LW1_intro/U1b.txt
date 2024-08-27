@@ -1,0 +1,5 @@
+physics,John,Anton,9
+English,Lina,Mike,9
+Logic,Gabriel,dan,10
+Math2,justin,ran,6
+OOP,John,Anton,6

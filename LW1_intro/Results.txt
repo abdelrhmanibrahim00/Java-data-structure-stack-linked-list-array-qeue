@@ -1,0 +1,63 @@
+
+Initial Data Teachers
+-------------------------------------------------------------------
+|    Name   |   Surname |  Module  |     Credit    |
+-------------------------------------------------------------------
+|  Gabriel    |    dan    |    Logic     |     10   |
+|   John    |  Anton    |    physics     |      9   |
+|   John    |  Anton    |    OOP     |      6   |
+|   Lina    |   Mike    |    English     |      9   |
+-------------------------------------------------------------------
+
+
+Initial Data Selected subjects
+--------------
+|     Module    |
+--------------
+|  Jasmine    |  Mike    |    physics     |     IFU1   |
+|   Ryan    |  John    |     OOP     |     IFU1   |
+|  Johnson    |  Adam    |    English     |     IFU1   |
+|  Josch    |  Raz    |    physics     |     IFU1   |
+|   Ryan    |  Jacoub    |    physics     |     IFU1   |
+|   Adam    |  Adam    |    English     |     IFU1   |
+|   Luis    |  Tom    |     OOP     |     IFU1   |
+|  mesouy    |  Yassin    |    Logic     |     IFU1   |
+--------------
+
+
+Task1
+
+After sorting
+-------------------------------------------------------------------
+|    Name   |   Surname |  Module  |     Credit    |
+-------------------------------------------------------------------
+|  Gabriel    |    dan    |    Logic     |     10   |
+|   John    |  Anton    |    physics     |      9   |
+|   John    |  Anton    |    OOP     |      6   |
+|   Lina    |   Mike    |    English     |      9   |
+-------------------------------------------------------------------
+
+
+Task2
+
+After excluding
+-------------------------------------------------------------------
+|    Name   |   Surname |  Module  |     Credit    |
+-------------------------------------------------------------------
+|  Gabriel    |    dan    |    Logic     |     10   |
+|   John    |  Anton    |    physics     |      9   |
+|   John    |  Anton    |    OOP     |      6   |
+|   Lina    |   Mike    |    English     |      9   |
+-------------------------------------------------------------------
+
+ The teacher has most modules is : John Anton ,number of student he has:  3  his module is:  physics 
+
+After matching 
+-------------------------------------------------------------------
+|    Name   |   Surname |   Module   |     Group    |
+-------------------------------------------------------------------
+|   Logic  |
+|   Logic  |
+.............................................................................
+
+End of the program!!
